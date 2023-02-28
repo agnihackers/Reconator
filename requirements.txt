@@ -9,7 +9,6 @@ wfuzz
 wafw00f
 bs4
 colorama
-rustup-init.exe
 requests
 argparse
 python-Wappalyzer
