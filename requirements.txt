@@ -9,6 +9,7 @@ wfuzz
 wafw00f
 bs4
 colorama
+rustup
 requests
 argparse
 python-Wappalyzer
